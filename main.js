@@ -1,7 +1,7 @@
 var Slack = require('slack-client');
 
 //Token IV DEVS
-var token = 'xoxp-13346603558-14974519265-20845472466-07d1de73b4';
+var token = '';
 
 
 var slack = new Slack(token, true, true);
